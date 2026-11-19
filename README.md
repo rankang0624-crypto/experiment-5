@@ -160,6 +160,7 @@ for epoch in range(epochs):
         f"Loss: {epoch_loss:.4f}"
     )
 ```
+<img width="1045" height="642" alt="image" src="https://github.com/user-attachments/assets/0a5c9109-f906-4d61-aa2d-b2b39ba84af6" />
 
 ### 7. 绘制训练损失曲线
 
@@ -191,7 +192,8 @@ plt.show()
 
 本次实验运行后，得到 LeNet 模型训练损失变化曲线。实验结果如下：
 
-![LeNet Training Loss](./training_loss.png)
+<img width="991" height="615" alt="image" src="https://github.com/user-attachments/assets/7b97aa40-affd-46a2-8a46-809e23fb65d1" />
+
 
 **图1 LeNet模型训练损失变化曲线**
 
